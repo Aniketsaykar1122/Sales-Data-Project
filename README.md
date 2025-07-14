@@ -28,4 +28,6 @@ Built with reusable and scalable data model
 Useful for management reporting and strategy planning
 
 Screenshot/Demos :
-Show what the dashboard look like : (https://github.com/Aniketsaykar1122/Sales-Data-Project/blob/main/Sales%20Data.png)
+
+Show what the dashboard look like :
+(https://github.com/Aniketsaykar1122/Sales-Data-Project/blob/main/Sales%20Data.png)
